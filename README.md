@@ -18,4 +18,11 @@ A high-level representation of the above concepts, is provided [here](https://ww
 
 ## Scope of this repo contents
 The source code that is included into this repo, focus to the provision of capabilities for the advanced data analytics of the DNA alphabet, i.e., the A-T-G-C pairs, that compose the genome sequencing.
-Indicatively
+
+Indicatively the library includes modules for:
+- Primers analysis
+- Genes bases compression
+- Genome sequencing
+
+## Supported environemnts
+The supported programming language is Java (version >= 1.8).
